@@ -1,0 +1,21 @@
+* {
+	font-family: 'Tillana', cursive;
+}
+
+#leftSide {
+	width: 500px;
+	height: 500px;
+	position: absolute;
+}
+
+#rightSide {
+	left: 500px;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	border-left: 1px solid black;
+}
+
+img {
+	position: absolute;
+}
